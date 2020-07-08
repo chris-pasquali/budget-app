@@ -1,3 +1,5 @@
+Budget Application using - React Hooks and Context API and stores data in local storage
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
